@@ -1,6 +1,6 @@
 # MNIST Classification using Fully connected Neural Network
 
-I have developped a fully connected neural network to classify MNIST images using keras a deep learning library with tensorflow as backend, 
+I have developped a fully connected neural network to classify MNIST images using keras as a Deep Learning library with Tensorflow as backend, 
 where the pipeline of the is model as follows:
 1) First step is: the imports
 2) Second step is: data collection 
