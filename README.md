@@ -3,10 +3,10 @@
 I have developped a fully connected neural network to classify MNIST images using keras a deep learning library with tensorflow as backend, 
 where the pipeline of the is model as follows:
 1) First step is: the imports
-2) Second step is: data collection, 
+2) Second step is: data collection 
 3) third step is: data preparation
-4) fourth step is data normalization:
-5) fifth step is data tranformation:
+4) fourth step is data normalization
+5) fifth step is data tranformation
 6) sixth step is: to define the model
 7) seventh step is: to compile the created model, thus this model will become as a computaional graph
 8) eighth step: after doing all above steps, we can start the model training 
